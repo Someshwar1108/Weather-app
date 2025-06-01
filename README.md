@@ -1,6 +1,3 @@
-Awesome! Here’s the **full README-style draft** for the Weather Forecast App, matching the style you used for the calculator project:
-
----
 
 # 🌦 Weather Forecast App
 
